@@ -1,4 +1,4 @@
-HTML = index.html
+HTML = *.html
 
 PHONY += $(HTML)
 $(HTML):
